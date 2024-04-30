@@ -68,10 +68,53 @@
         "padding_top": 32,
         "padding_bottom": 36
       }
+    },
+    "rich_text_rYjMmK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iYBcTU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_VJGFmN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe snacks don’t need to be complicated but they do need to be tasty, add super nutritious to the mix and you’ve got the perfect snacks! 100% natural, premium quality no added sugar fruits, natural Italian olives ,whole nuts with the most amazing natural seasoning and indulgent 70% cocoa mini chocolate drops. Snacks for every occasion, whenever and wherever you are.<\/p>"
+          }
+        },
+        "button_8Mj6Wy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iYBcTU",
+        "text_VJGFmN",
+        "button_8Mj6Wy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image-with-text",
-    "featured_collection"
+    "featured_collection",
+    "rich_text_rYjMmK"
   ]
 }
