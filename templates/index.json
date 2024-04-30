@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Our latest",
+            "heading": "Snacks For Every Occasion",
             "heading_size": "h0"
           }
         },
@@ -24,7 +24,7 @@
         "button"
       ],
       "custom_css": [
-        "h2 {font-family: var(--display-font)}"
+        "h2 {font-family: var(--display-font);}"
       ],
       "settings": {
         "height": "adapt",
