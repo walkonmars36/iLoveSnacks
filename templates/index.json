@@ -27,6 +27,7 @@
         "h2 {font-family: var(--display-font);}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/ils_olives_gallery_2_update.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
