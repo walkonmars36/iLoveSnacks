@@ -23,10 +23,13 @@
         "heading",
         "button"
       ],
+      "custom_css": [
+        "h2 {font-family: var(--display-font)}"
+      ],
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
