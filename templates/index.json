@@ -10,6 +10,14 @@
             "heading_size": "h0"
           }
         },
+        "caption_bDLFWL": {
+          "type": "caption",
+          "settings": {
+            "caption": "WHENEVER AND WHEREVER YOU ARE!",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
         "button": {
           "type": "button",
           "settings": {
@@ -21,6 +29,7 @@
       },
       "block_order": [
         "heading",
+        "caption_bDLFWL",
         "button"
       ],
       "custom_css": [
